@@ -1,0 +1,10 @@
+.kaufman__triangle {
+background-image: url(../../../images/first_proect_job/images/kaufman-triangle.png);
+background-size: 877px;
+position: absolute;
+right: -210px;
+width: 877px;
+height: 877px;
+z-index: 0;
+top: 0px;
+}
